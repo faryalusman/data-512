@@ -15,7 +15,6 @@ The final csv file will contain monthly traffic counts related to the following 
   - Timestamp
   - Pageviews data(total)
   - Pagecount data (total)
-As well as 
   - Pageviews data for mobile
   - Pageviews data for desktop
   - Pagecount data for mobile
