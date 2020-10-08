@@ -4,7 +4,7 @@
 The goal is to pull data from a publicly available source, be able to use data processing techniques to clean the data and use the final product to pinpoint a trend in some feature of the data, in this case activity in the form of traffic on the English Wikipedia ( mobile and desktop ).
 
 ## 2. Project License 
-This project is under the MIT License. View the [License file](/LICENSE.md)for more information.
+This project is under the MIT License. View the [License file](/LICENSE.md) for more information.
 
 ## 3. Data Source 
 The Wikimedia Foundation REST API has provided this information, on their older Pagecounts or Legacy API and their newer PageViews API. Documentation on the API can be found on [Wikimedia's website](https://wikimedia.org/api/rest_v1/). 
