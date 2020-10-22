@@ -1,7 +1,7 @@
 # A2: Data Bias 
 
 ## 1. Project Goal 
-The goal is to analyze several datasets together and understand the underlying trends of labelling negative behaviors online as well as what factors
+The goal is to analyze several datasets together that relate to negative commenting and understand the underlying trends of labelling negative behaviors online as well as what factors
 affect those labelling behaviors, particularly by demographic.
 
 ## 2. Project License 
