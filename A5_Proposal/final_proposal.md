@@ -5,7 +5,7 @@
 - What is the difference between the popularity of trending artists versus my favorite artists on Spotify?
 - What is the difference in the music features between trending artists versus my favorite artists on Spotify?
 ## Hypothesis:
-- For Question 1, I predict that my artists will be less popular than trending artists
+- For Question 1, I predict that my artists will be less popular than trending artists. However, some of my artists may be more popular than I realize. For example, while I may think piano and organ instrumentals are niche and ergo may think Hans Zimmer might not be extremely popular, he is also a world-famous score composer. 
 - For Question 2, I predict the music features of my preferred artists to be slower and more mellow compared to popular artists. This means they will probably score lower on metrics such as danceability and loudness. However, this is a nebulous hypothesis. For example one of my favorite artists is Coldplay. My favorite song of Coldplay, *Yellow*, might be mellow and sweet. However another song such as *Princess of China* may be faster and score higher on the danceability / loudness scales.  
 
 ## Background/Related Work: 
